@@ -1,0 +1,1 @@
+\\wsl.localhost\Ubuntu\home\quintino\OC-Projeto-3\prog4.s
